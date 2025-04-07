@@ -1,3 +1,10 @@
+## 🌟 Features
+- ✅ Public API
+- ✅ JWT authentication
+- ✅ Sanitization
+- ✅ Rate-limiting
+- ✅ In-memory caching (MongoDB)
+
 ## 🛠️ Tech Stack
 | Layer        | Technology           |
 |--------------|----------------------|
